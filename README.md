@@ -47,3 +47,6 @@ Un jeu de plateforme avec différents niveaux intégrant des obstacles et des an
 - CSS3
 
 ## Site du projet
+- [Petit Site](https://sea-turtle-app-2rccw.ondigitalocean.app/)
+- [Petit Site GitHub Pages](https://x3lax.github.io/ProjetCanvas1_JS_Alexander_Boretti/)
+
